@@ -16,7 +16,7 @@ public class Exercicio18 {
         }
 
         System.out.println("=================");
-
+        
         while (i <= 300 ) {
 
             System.out.println(i);
